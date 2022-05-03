@@ -1,0 +1,7 @@
+This project is made of some highlighted boxes that when the mouse is run over them change to ramdon colours
+
+It uses Flexbox, CSS transitions and JavaScript
+
+This could be converted to be used in (for example) the following ways
+
+- fun interactive game
