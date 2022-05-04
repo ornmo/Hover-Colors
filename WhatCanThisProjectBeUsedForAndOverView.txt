@@ -5,3 +5,7 @@ It uses Flexbox, CSS transitions and JavaScript
 This could be converted to be used in (for example) the following ways
 
 - fun interactive game
+
+
+
+******NOTE: The colour stays on the border, this is an issue
